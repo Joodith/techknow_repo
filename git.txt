@@ -1,1 +1,9 @@
-Git repo 
+burger = 110
+pizza = 220
+grill = 320
+first_purchase = int(input("Enter Quantity of burger you want:"))
+second_purchase = int(input("Enter Quantity of pizza you want:"))
+third_purchase = int(input("Enter Quantity of Grill you want:"))
+total_amount = (first_purchase*burger) +          
+		(second_purchase*pizza) + (third_purchase*grill)
+print("Your total amount is:", total_amount)

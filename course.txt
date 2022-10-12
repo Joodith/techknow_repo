@@ -1,1 +1,10 @@
-Content added!
+String
+Number or Integer
+Float or decimal
+Boolean
+set
+list
+dict
+tup
+datetime
+bytes
